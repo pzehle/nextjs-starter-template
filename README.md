@@ -18,7 +18,7 @@ A modern, internationalized Next.js application with a robust, domain-driven arc
 npm install
 
 # 2. Set up environment variables
-cp .env.sample .env
+cp .env.example .env
 # Fill in the required values in the .env file
 
 # 3. Set up the database
@@ -87,4 +87,4 @@ npm run db:seed            # Populates the datbase with placeholder data
 
 ## 🔧 Environment Variables
 
-See `.env.sample` for a full list of required environment variables. Copy this file to `.env` and fill in the appropriate values for your environment.
+See `.env.example` for a full list of required environment variables. Copy this file to `.env` and fill in the appropriate values for your environment.
