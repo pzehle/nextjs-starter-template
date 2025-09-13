@@ -1,0 +1,4 @@
+{
+	"content": "Page content!",
+	"testKey": "Test value to trigger change detection"
+}

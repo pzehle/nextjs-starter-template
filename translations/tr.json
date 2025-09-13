@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "home": {
+      "content": "Sayfa içeriği!",
+      "testKey": "Değişiklik algılamayı tetiklemek için test değeri"
+    }
+  },
+  "emails": {
+    "verifyemail": {
+      "subject": "E-posta adresinizi doğrulayın!"
+    }
+  }
+}

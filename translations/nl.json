@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "home": {
+      "content": "Paginainhoud!",
+      "testKey": "Testwaarde om wijzigingsdetectie te activeren"
+    }
+  },
+  "emails": {
+    "verifyemail": {
+      "subject": "Bevestig je e-mailadres!"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "emails": {
+    "verifyemail": {
+      "subject": "Confirm your email address!"
+    }
+  },
+  "pages": {
+    "home": {
+      "content": "Page content!",
+      "testKey": "Test value to trigger change detection"
+    }
+  }
+}

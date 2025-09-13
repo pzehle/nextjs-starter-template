@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "home": {
+      "content": "¡Contenido de la página!",
+      "testKey": "Valor de prueba para detectar cambios"
+    }
+  },
+  "emails": {
+    "verifyemail": {
+      "subject": "¡Confirma tu dirección de correo electrónico!"
+    }
+  }
+}

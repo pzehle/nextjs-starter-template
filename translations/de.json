@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "home": {
+      "content": "Seiteninhalt!",
+      "testKey": "Testwert zur Änderungserkennung"
+    }
+  },
+  "emails": {
+    "verifyemail": {
+      "subject": "Bestätige deine E-Mail-Adresse!"
+    }
+  }
+}
